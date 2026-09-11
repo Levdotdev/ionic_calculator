@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace = "io.example.photogallery"
+    namespace = "io.example.calculator"
     compileSdk = rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "io.example.photogallery"
+        applicationId "io.example.calculator"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

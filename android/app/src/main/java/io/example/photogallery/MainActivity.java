@@ -1,4 +1,4 @@
-package io.example.photogallery;
+package io.example.calculator;
 
 import com.getcapacitor.BridgeActivity;
 
